@@ -14,8 +14,6 @@ import javax.swing.JTextField;
 
 /**
  * This class simulate the game Whack-a-mole.
- * @author Junjian Xie
- * Andrew ID: junjianx
  */
 public class Game implements ActionListener {
     /**

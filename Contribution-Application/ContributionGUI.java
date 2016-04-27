@@ -15,8 +15,6 @@ import javax.swing.JTextField;
 
 /**
  * This class shows a contribution application UI.
- * @author Junjian Xie
- * Andrew ID: junjianx
  */
 public class ContributionGUI {
     private JFrame frame;

@@ -1,7 +1,5 @@
 /**
  * A class to hold information about products that can be purchased at a store. 
- * @author Junjian Xie
- * Andrew ID: junjianx
  */
 public class ProductData {
     private String item;

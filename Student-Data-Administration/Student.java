@@ -1,8 +1,6 @@
 /**
  * This is a class to model a single student including first name, last name,
  * Andrew ID, and phone number.
- * @author Junjian Xie
- * Andrew ID: junjianx
  */
 public class Student implements Cloneable {
     /**

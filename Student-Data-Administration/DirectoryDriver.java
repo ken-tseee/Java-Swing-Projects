@@ -23,8 +23,6 @@ import javax.swing.border.TitledBorder;
 
 /**
  * A Swing GUI to show Directory.
- * @author Junjian Xie
- * Andrew ID: junjianx
  */
 public class DirectoryDriver extends JFrame {
     /**

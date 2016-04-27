@@ -4,8 +4,6 @@ import java.util.List;
 
 /**
  * A class to model a collection of students using Maps.
- * @author Junjian Xie
- * Andrew ID: junjianx
  */
 public class Directory {
     /**

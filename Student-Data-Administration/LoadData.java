@@ -5,8 +5,6 @@ import java.io.IOException;
 
 /**
  * A class to load data from a CSV file.
- * @author Junjian Xie
- * Andrew ID: junjianx
  */
 public class LoadData {
 

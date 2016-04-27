@@ -1,9 +1,7 @@
 import java.text.DecimalFormat;
 
 /**
- * This class holds a contributor object. 
- * @author Junjian Xie
- * Andrew ID: junjianx
+ * This class holds a contributor object.
  */
 public class ContributorData {
     private String lastName;
